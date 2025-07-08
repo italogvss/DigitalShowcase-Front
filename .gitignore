@@ -1,0 +1,46 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/app
+/public
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env.development
+.env.production
+newfrontBackup18012025.zip
+deploy.bat
+deploy.txt
+dev.tar
+dev/asset-manifest.json
+dev/favicon.ico
+dev/index.html
+dev/logo192.png
+dev/logo512.png
+dev/manifest.json
+dev/robots.txt
+dev/static/css/main.ff8d23fa.css
+dev/static/css/main.ff8d23fa.css.map
+dev/static/js/main.d2bf2269.js
+dev/static/js/main.d2bf2269.js.LICENSE.txt
+dev/static/js/main.d2bf2269.js.map
+dev/static/js/main.a2ed2c02.js
+dev/static/js/main.a2ed2c02.js.LICENSE.txt
+dev/static/js/main.a2ed2c02.js.map
